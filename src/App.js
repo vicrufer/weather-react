@@ -40,7 +40,7 @@ function App() {
       </div>
     </div>
     <p>
-      <a href="https://github.com/vicrufer/weather-react" target="_blank" class="github">
+      <a href="https://github.com/vicrufer/weather-react" target="_blank" rel="noreferrer" class="github">
       Open-source</a> code by Victoria Ruiz</p>
   </div>
   );
