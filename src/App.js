@@ -39,6 +39,9 @@ function App() {
         </div>
       </div>
     </div>
+    <p>
+      <a href="https://github.com/vicrufer/weather-react" target="_blank" class="github">
+      Open-source</a> code by Victoria Ruiz</p>
   </div>
   );
 }
